@@ -4,4 +4,9 @@ This is some text.
 
 We add this additional text in a second editing.
 
-This is third modification
+## This is a second section
+
+We add a list of todos:
+- first
+- second
+- third
